@@ -70,7 +70,7 @@ function uploadTransactions () {
                 console.log(err);
             });
         }
-
-        window.addEventListener('online', uploadTransactions);
     }
 }
+
+window.addEventListener('online', uploadTransactions);
