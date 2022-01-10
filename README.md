@@ -4,7 +4,7 @@
   ## Description
   Budget-Tracker is a budget tracking app that is a progressive web application, allowing users to use the app to track their money whether they have internet access or not. This app utilizes an existing budget tracking application but updated with the PWA features such as offline functionality as well as ability to install the app. This application features the following technologies: Express.JS, MongoDB, Node.js, IndexedDB, and Mongoose.
 
-  * [Demonstration Video](undefined)
+  ![BudgetTrackerSS](https://user-images.githubusercontent.com/79202800/148826250-0001b86f-0eb3-480c-90a0-0c854ccd4a65.PNG)
   
   ***************************************************************
   ## Table of Contents
@@ -19,7 +19,7 @@
 Clone from GitHub, install node and dependencies in the root of the project. 
   
 ## Usage
-  Start the application from the command line using 'npm start' command. The application will be hosted on your local server port 3001. Open localhost:3001 in your browser. The application is also hosted on Heroku at the following link, and can be installed using the logo found on the right-hand side of the web address bar: LINK
+  Start the application from the command line using 'npm start' command. The application will be hosted on your local server port 3001. Open localhost:3001 in your browser. The application is also hosted on Heroku at the following link, and can be installed using the logo found on the right-hand side of the web address bar: [Budget-Tracker on Heroku](https://rocky-coast-70748.herokuapp.com)
   
 ## License
   This project is covered under the MIT license. 
