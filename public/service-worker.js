@@ -49,5 +49,9 @@ self.addEventListener('fetch', function (e) {
           return fetch(e.request);
         }
       })
+      .catch(err => {
+          console.log(err);
+          return err;
+      })
     )
   })
